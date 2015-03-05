@@ -1,0 +1,1 @@
+Phoca VirtueMart Category List Module is Joomla! CMS extension. Module which displays categories of VirtueMart component in module position.
